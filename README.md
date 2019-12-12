@@ -6,4 +6,4 @@
 * Add the `index.js` file in the HTML body.
 * Binde `index.js` in der HTML-Datei ein.
 
-__Zeit__: 1 Stunde
+__Zeit__: 30 Minuten
